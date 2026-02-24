@@ -111,10 +111,22 @@
     width: 100%;
     height: auto;
 }
+#lienhe input {
+    width: 300px;     /* tăng chiều ngang */
+    padding: 8px;
+    font-size: 15px;
+}
+#lienhe textarea {
+    width: 400px;     /* rộng hơn input */
+    height: 100px;    /* cao hơn */
+    padding: 8px;
+    font-size: 15px;
+}
 footer {
     background-color: #8b0000;
     color: white;
     text-align: center;
     padding: 10px;
     font-weight: bold;
+
 }
